@@ -4,6 +4,7 @@
 - XMLHttpRequest araştırılacak ve jsonplaceholder içerisindeki userlar console’a yazdırılacak.
 
 Kod Çıktısı:
+<br>
 ![data](https://user-images.githubusercontent.com/44818302/152647149-170d56b5-eaaa-4852-b2fa-e3d13ba2e916.PNG)
 
 
